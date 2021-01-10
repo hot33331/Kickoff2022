@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kickoff2022", "Kickoff2022\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kickoff2022.MacOS", "Kickoff2022.MacOS\Kickoff2022.MacOS.csproj", "{FEBA3E9E-24C3-43D8-BBE9-9EA4A78FCC83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kickoff2022.GTK", "Kickoff2022.GTK\Kickoff2022.GTK.csproj", "{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,18 @@ Global
 		{FEBA3E9E-24C3-43D8-BBE9-9EA4A78FCC83}.Debug|iPhone.Build.0 = Debug|Any CPU
 		{FEBA3E9E-24C3-43D8-BBE9-9EA4A78FCC83}.Release|iPhone.ActiveCfg = Release|Any CPU
 		{FEBA3E9E-24C3-43D8-BBE9-9EA4A78FCC83}.Release|iPhone.Build.0 = Release|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{E58EC15B-9EBF-4661-81A1-7F7DCD05A037}.Release|iPhone.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
